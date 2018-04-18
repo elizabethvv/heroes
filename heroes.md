@@ -5,3 +5,7 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
+* spider man
+* hulk
+* thor
+* gatubela
